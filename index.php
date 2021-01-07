@@ -18,7 +18,7 @@
                 $result = $getDataClass->getDataFromAPI();
                 echo '<div id="mapdata">' . $result . '</div>';
                 ?>
-                <div id="map"/></div>
+                <div id="map"></div>
         </div>
     </div>
     <script type="text/javascript" src="js/map.js"></script>
